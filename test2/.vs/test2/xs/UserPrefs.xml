@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D2E26667-EB7F-8872-EB82-3E05F77F3DDC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CuePlay/CuePlay.cs">
+    <Files>
+      <File FileName="Assets/Plugins/CriWare/CriWareErrorHandler.cs" Line="223" Column="1" />
+      <File FileName="Assets/CuePlay/CuePlay.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CuePlay" expanded="True" />
+              <Node name="Plugins" expanded="True">
+                <Node name="CriWare" expanded="True">
+                  <Node name="DebugApi" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="40c785cc-28a3-42ce-b577-bf19fbf0d27c" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="12390ae8-2420-46b2-bfa5-b60529ef9091" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
